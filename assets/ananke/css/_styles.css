@@ -18,3 +18,7 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+.f4 {
+  font-size: 0.9rem;
+}
